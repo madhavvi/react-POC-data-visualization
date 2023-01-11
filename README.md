@@ -14,22 +14,9 @@ You may also see any lint errors in the console.
 
 ## Research Documentation
 
-Why? We would love to have future-proof charts available for creating beautiful reports and interactive views for clients and ourselves. In short term, we will be having predictions on consumption and financial datas and on the long-term we would like to have Bloomberg/Marketplace -kind of visualisations.
+I would love to have future-proof charts available for creating beautiful reports and interactive views for clients. In short term, we will be having predictions on consumption and financial datas and on the long-term we would like to have Bloomberg/Marketplace -kind of visualisations.
 
-### Entry points for data visualisation:
-
-* Band
-* Song/Recording
-* Artist/Entity
-* Time
-* Territory
-* Media
-
-
-
-When? First implementation test (PoC) during this summer for consumption predictions.
-
-How? Different chart libraries/dashboards ⭐ranked by the following features:
+Different chart libraries/dashboards ⭐ranked by the following features:
 
 1. X-axis scrollable timeline (horizontal scroll)
 2. Clickable/hoverable key events attached to timeline
